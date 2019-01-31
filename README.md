@@ -36,7 +36,7 @@
 
 #### UML
 
-![UML 1](./props-and-state.jpg)
+![UML 1](props-and-state.jpg)
 
 ## Assignment 2: Internal State Practice
 
@@ -72,7 +72,7 @@
 
 #### UML
 
-![UML 2](/props-and-state-2.jpg)
+![UML 2](props-and-state-2.jpg)
 
 
 ## Assignment 3: External State Practice
@@ -110,4 +110,4 @@
 
 #### UML
 
-![UML 3](/props-and-state-3.jpg)
+![UML 3](props-and-state-3.jpg)
