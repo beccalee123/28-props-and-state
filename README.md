@@ -36,7 +36,7 @@
 
 #### UML
 
-TO INCLUDE
+![UML 1](./props-and-state.jpg)
 
 ## Assignment 2: Internal State Practice
 
@@ -71,6 +71,9 @@ TO INCLUDE
 - `src/styles.css` contains minor styling
 
 #### UML
+
+![UML 2](/props-and-state-2.jpg)
+
 
 ## Assignment 3: External State Practice
 
@@ -107,4 +110,4 @@ TO INCLUDE
 
 #### UML
 
-TO INCLUDE
+![UML 3](/props-and-state-3.jpg)
